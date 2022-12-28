@@ -1,6 +1,9 @@
 # Data-mining-101
 Data mining is the process of discovering patterns and insights in large datasets. It involves using techniques from fields such as machine learning, statistics, and database systems to extract and analyze data. Some common techniques used in data mining include decision trees, clustering, and neural networks. 
 
+![ ](./Images/Data-mining-steps.png)
+
+
 ## A. Data collection and assembly 
 This is the first step in the data mining process, and involve gathering and organizing the data that will be used for analysis. There are several steps involved in this process:
   1. Identify the problem or question that you want to answer with the data. This will help to determine what type of data is needed and where it can be obtained.
