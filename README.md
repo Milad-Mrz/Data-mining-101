@@ -26,7 +26,6 @@ Data exploration and visualization are important steps in the data mining proces
 Data exploration involves examining the data in detail to understand its characteristics and relationships. This may involve calculating summary statistics such as mean, median, and standard deviation, and creating visualizations such as histograms and scatter plots to better understand the data.
 Data visualization is the process of creating visual representations of the data, such as charts and graphs, to make it easier to understand and communicate. There are many tools and techniques available for data visualization, including software programs like Excel and Tableau, and programming libraries such as Matplotlib and Seaborn.
 Data exploration and visualization can be valuable for identifying patterns and trends in the data, as well as for identifying potential problems or biases in the data that may need to be addressed in the analysis.
-
   1. Select the data that you want to explore and visualize. This may involve selecting a subset of the data or aggregating the data in some way.
   2. Calculate summary statistics such as mean, median, and standard deviation to gain a better understanding of the data.
   3. Create visualizations such as histograms, scatter plots, and box plots to explore the data and identify patterns and trends.
@@ -37,9 +36,7 @@ Data exploration and visualization can be valuable for identifying patterns and 
 It is important to carefully plan and execute the data exploration and visualization process to ensure that the resulting insights are reliable and useful.
 
 ## D. Building models
-
 Models are mathematical representations of real-world phenomena that can be used to make predictions or decisions. In data mining, models are used to uncover patterns and relationships in data and to make predictions or decisions based on those patterns.
-
 There are many different types of models that can be used in data mining, including:
   1. Linear regression models: These models are used to predict a continuous outcome based on one or more predictor variables.
   2. Logistic regression models: These models are used to predict a binary outcome, such as yes/no or pass/fail.
@@ -51,7 +48,6 @@ There are many different types of models that can be used in data mining, includ
 It is important to carefully evaluate the quality and reliability of the results obtained from data mining models, as the results may be affected by factors such as the quality of the data and the choice of model.
 
 ## E. Model evaluation 
-
 It is the process of assessing the performance of a model and determining its usefulness for a particular task. There are several steps involved in model evaluation, including:
   1. Divide the dataset into a training set and a testing set. The training set is used to build the model, while the testing set is used to evaluate the model's performance.
   2. Train the model on the training set. This involves fitting the model to the data and adjusting the model's parameters to optimize its performance.
