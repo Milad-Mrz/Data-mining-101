@@ -4,7 +4,7 @@ Data mining is the process of discovering patterns and insights in large dataset
 ![ ](./Images/Data-mining-steps.png)
 
 
-## A. Data collection and assembly 
+**A. Data collection and assembly**
 This is the first step in the data mining process, and involve gathering and organizing the data that will be used for analysis. There are several steps involved in this process:
   1. Identify the problem or question that you want to answer with the data. This will help to determine what type of data is needed and where it can be obtained.
   2. Determine the sources of the data. This may include internal company databases, public data sources, or data obtained through surveys or experiments.
@@ -12,7 +12,7 @@ This is the first step in the data mining process, and involve gathering and org
   4. Assemble the data into a usable format. This may involve organizing the data into tables or files, or converting it into a format that can be easily analyzed.
   5 Check the quality of the data. This may involve verifying that the data is complete and accurate, and identifying and correcting any errors or inconsistencies.
 
-## B. Data pre-processing 
+**B. Data pre-processing** 
 This is the process of preparing raw data for analysis. It is an important step in the data mining process as it can significantly impact the quality and usefulness of the results obtained.
 There are several steps involved in data pre-processing, including:
   1. Data cleaning: This involves identifying and correcting errors or inconsistencies in the data. This may involve dealing with missing values, incorrect data types, and outlier values.
@@ -20,7 +20,7 @@ There are several steps involved in data pre-processing, including:
   3. Data transformation: This involves transforming the data into a format that is more suitable for analysis. This may involve scaling the data, creating new features, or aggregating data into smaller units.
   4. Data reduction: This involves reducing the size of the data by selecting a subset of the data or by using techniques such as dimensionality reduction. This can help to reduce the computational cost of data analysis and improve the performance of machine learning algorithms.
 
-## C. Data exploration and visualization 
+**C. Data exploration and visualization** 
 Data exploration and visualization are important steps in the data mining process as they can help to gain a better understanding of the data and identify patterns and trends.
 Data exploration involves examining the data in detail to understand its characteristics and relationships. This may involve calculating summary statistics such as mean, median, and standard deviation, and creating visualizations such as histograms and scatter plots to better understand the data.
 Data visualization is the process of creating visual representations of the data, such as charts and graphs, to make it easier to understand and communicate. There are many tools and techniques available for data visualization, including software programs like Excel and Tableau, and programming libraries such as Matplotlib and Seaborn.
@@ -32,7 +32,7 @@ Data exploration and visualization can be valuable for identifying patterns and 
   5. Refine the visualizations as needed to better communicate the insights and patterns in the data.
   6. Review the results of the data exploration and visualization to identify any potential issues or biases in the data, and consider how these may impact the analysis.
 
-## D. Building models
+**D. Building models**
 Models are mathematical representations of real-world phenomena that can be used to make predictions or decisions. In data mining, models are used to uncover patterns and relationships in data and to make predictions or decisions based on those patterns.
 There are many different types of models that can be used in data mining, including:
   1. Linear regression models: These models are used to predict a continuous outcome based on one or more predictor variables.
@@ -42,7 +42,7 @@ There are many different types of models that can be used in data mining, includ
   5. Clustering models: These models are used to group data into clusters based on similar characteristics.
   6. Association rule learning models: These models are used to identify associations or relationships between different items in a dataset.
 
-## E. Model evaluation 
+**E. Model evaluation** 
 It is the process of assessing the performance of a model and determining its usefulness for a particular task. There are several steps involved in model evaluation, including:
   1. Divide the dataset into a training set and a testing set. The training set is used to build the model, while the testing set is used to evaluate the model's performance.
   2. Train the model on the training set. This involves fitting the model to the data and adjusting the model's parameters to optimize its performance.
